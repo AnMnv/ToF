@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import math
 
-
+11111
 accuracy = 0.01
 e = -1.6*10**(-19)
 V1 = 3.
